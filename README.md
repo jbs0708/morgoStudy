@@ -51,7 +51,7 @@ ex. git commit -m "1week : BOJ[1759] 암호 만들기"
 
 6. Pull request 생성
 - Pull Request Name : {본인의 깃허브 이름} : [{주차명}]
-> ex. SUbbb : [1week]
+> ex. daegi0923 : [1week]
 
 - Content : 문제명, 시간복잡도
 - Label : 플랫폼, 언어

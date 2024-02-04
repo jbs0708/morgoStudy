@@ -7,7 +7,7 @@
 
 
 ## 👥 참여자
-> DaegiYeo
+> [DaegiYeo](https://github.com/daegi0923)
 > 각자 연결해서 적어주삼^^
 
 ## 💁‍♂️ 스터디 규칙

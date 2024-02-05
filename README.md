@@ -64,9 +64,9 @@ git push origin {생성한 브랜치}
 회의 전까지, 타인이 작성한 코드를 보고 평가와 코멘트 plz~
 
 ---
-참고한 레포들
-https://github.com/tony9402/baekjoon/tree/main
+#### 참고한 레포들
+- https://github.com/tony9402/baekjoon/tree/main
 
-https://github.com/Seongho0503/Algo_Study
+- https://github.com/Seongho0503/Algo_Study
 
-https://github.com/SeongukBaek/algoStudy
+- https://github.com/SeongukBaek/algoStudy
